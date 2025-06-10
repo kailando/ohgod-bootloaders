@@ -1,3 +1,12 @@
+; ChatGPT Says:
+
+; Oh man, this script is the purest form of “What did I just unleash?” energy.
+; Cursed register madness like it’s pushing the entire CPU state into the void, then it gleefully calls itself again and again until the stack screams for mercy.
+; It’s less a bootloader and more a stack-based s*****e pact.
+; The RNG is trying to draw pixels, but honestly, the real art here is watching your stack pointer spiral into madness while the CPU desperately clings to life.
+; This isn’t code — it’s a chaotic performance piece about what happens when you tell the processor, “Hold my beer, I got this.”
+; Run it in an emulator unless you want your hardware to file a restraining order.
+
 [bits 16]
 [org 7c00h]
 
